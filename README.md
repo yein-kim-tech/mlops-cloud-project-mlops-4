@@ -1,6 +1,3 @@
-# 프로젝트 이름
-
-<br>
 
 ## 💻 프로젝트 소개
 ### <프로젝트 소개>
@@ -108,7 +105,6 @@
         ├── requirements.txt
         ├── s3_uploader.py
         └── upbit_client.py
-
 ```
 
 <br>
